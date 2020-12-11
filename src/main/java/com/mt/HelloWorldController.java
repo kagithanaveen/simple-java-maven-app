@@ -19,16 +19,4 @@ public class HelloWorldController {
 		}
 		
 	}
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-			aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	
-			aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	
-                        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-				aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
