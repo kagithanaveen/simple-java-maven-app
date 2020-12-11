@@ -15,10 +15,7 @@ public class HelloWorldController {
 			model.addAttribute("name", " Hello World!");
 			return "home";
 		}
-	#hsdjasdhakjsdhajksdhasjdkhakjs
-		#hsdjasdhakjsdhajksdhasjdkhakjsd
-		#hsdjasdhakjsdhajksdhasjdkhakjsd
-	
+	 	
 		
 	}
 
