@@ -12,10 +12,27 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Prasad Software Solutions Pvt Ltd.</h1>
+<h1 align="center">Welcome to Naveen kagitha .</h1>
 <h1 align="center">
-Prasad Challagondla SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on 21 Jul 2020 7 PM IST - Online , and on Sep 21st 9 AM we have class room demo.
-	Very Good Training center for DevOps in Marathahalli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+   DevOps Understanding customer requirements and project KPIs
+Implementing various development, testing, automation tools, and IT infrastructure
+Planning the team structure, activities, and involvement in project management activities.
+Managing stakeholders and external interfaces
+Setting up tools and required infrastructure
+Defining and setting development, test, release, update, and support processes for DevOps operation
+Have the technical skill to review, verify, and validate the software code developed in the project.
+Troubleshooting techniques and fixing the code bugs
+Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
+Encouraging and building automated processes wherever possible
+Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management
+Incidence management and root cause analysis
+Coordination and communication within the team and with customers
+Selecting and deploying appropriate CI/CD tools
+Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
+Mentoring and guiding the team members 
+Monitoring and measuring customer experience and KPIs
+Managing periodic reporting on the progress to the management and the customer
+	 </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
